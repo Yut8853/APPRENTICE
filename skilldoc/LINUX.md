@@ -12,10 +12,10 @@ Linux の基本コマンドが使え、簡単なシェルスクリプトが書�
 
 ## Level 1
 
-- [ ] [Linux が何かを説明できる](/quest/linux/LINUX.md)
-- [ ] [Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)
-- [ ] [ディレクトリを操作できる](/quest/linux/DIRECTORY.md)
-- [ ] [マニュアルを確認できる](/quest/linux/MAN.md)
+- [○] [Linux が何かを説明できる](/quest/linux/LINUX.md)
+- [○] [Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)
+- [○] [ディレクトリを操作できる](/quest/linux/DIRECTORY.md)
+- [○] [マニュアルを確認できる](/quest/linux/MAN.md)
 - [ ] [ファイルを操作できる](/quest/linux/FILE.md)
 
 ## Level 2
