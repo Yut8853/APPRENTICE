@@ -16,14 +16,14 @@ Linux の基本コマンドが使え、簡単なシェルスクリプトが書�
 - [○] [Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)
 - [○] [ディレクトリを操作できる](/quest/linux/DIRECTORY.md)
 - [○] [マニュアルを確認できる](/quest/linux/MAN.md)
-- [ ] [ファイルを操作できる](/quest/linux/FILE.md)
+- [○] [ファイルを操作できる](/quest/linux/FILE.md)
 
 ## Level 2
 
-- [ ] [標準入出力を扱える](/quest/linux/STANDARD.md)
-- [ ] [パーミッションを操作できる](/quest/linux/PERMISSION.md)
+- [○] [標準入出力を扱える](/quest/linux/STANDARD.md)
+- [○] [パーミッションを操作できる](/quest/linux/PERMISSION.md)
 
 ## Level 3
 
-- [ ] [プロセス・ジョブを管理できる](/quest/linux/PROCESS.md)
+- [○] [プロセス・ジョブを管理できる](/quest/linux/PROCESS.md)
 - [ ] [シェルスクリプトを書くことができる](/quest/linux/SHELLSCRIPT.md)
